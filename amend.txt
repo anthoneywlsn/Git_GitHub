@@ -1,0 +1,2 @@
+We are learning git amend
+This was added from VS Code
